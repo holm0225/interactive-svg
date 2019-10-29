@@ -13,7 +13,7 @@
   animation: glancing 3s infinite forwards;
 }
 
-@keyframes glancing{
+@keyframes glancing {
 
   0% {
     transform: translateX(0);
